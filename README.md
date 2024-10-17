@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CoderSerg
+- 👀 I’m interested in Lua and Batch files
+- 😄 Pronouns: him, his, serg
+- ⚡ Fun fact: I started coding 1 year ago!
