@@ -7,4 +7,4 @@ Try it out it's cool!
 
 Let's try downloading this file also using curl!
 
-curl 
+curl https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Curl%20Test > curltest.txt
