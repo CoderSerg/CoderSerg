@@ -5,15 +5,9 @@ curl https://wuollet.com/cdn/shop/products/62d88877cc617fba61093959_5edc3fa4e5cf
 
 #Try it out it's cool!
 
-#Let's try downloading this file also using curl!
-
-cd ~/Downloads
-curl https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Curl%20Test > curltest.txt
-
-#And now let's get rid of both of those files
+#And now let's get rid of this file
 
 cd ~/Downloads
 rm donut.png
-rm curltest.txt
 
 #And we are done now!
