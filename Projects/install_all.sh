@@ -1,3 +1,5 @@
+echo "Compiling lua scripts..."
+sleep '0.6'
 echo "Unpacking git files..."
 sleep '1'
 echo "Checking installer version..."
