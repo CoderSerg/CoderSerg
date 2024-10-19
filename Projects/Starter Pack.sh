@@ -12,8 +12,8 @@ echo "It will guide you with steps to have a pack of stuff from me :)"
 sleep 1
 echo "If you already have run install_all.sh from me, please delete the files that it gave you or else the installation will fail."
 sleep 1
-read -q "answer?Install (y/n)"
-if [[ "$answer" == "y" ]]; then
+echo "Installing in 5s Press Control+C to cancel"
+sleep 5
 cd ~
 mkdir CoderSergPack
 cd CoderSergPack
@@ -30,6 +30,3 @@ dy() {lua ~/CoderSergPack/Projects/dy.lua}
 ry() {lua ~/CoderSergPack/Projects/ry.lua} 
 yon() {lua ~/CoderSergPack/Projects/yon.lua} 
 rt() {lua ~/CoderSergPack/Projects/rt.lua}"
-elif [[ "$answer" == "n" ]]; then
-
-fi
