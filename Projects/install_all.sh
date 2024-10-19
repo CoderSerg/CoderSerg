@@ -1,3 +1,4 @@
+clear
 echo "Compiling lua scripts..."
 sleep '0.6'
 echo "Unpacking git files..."
