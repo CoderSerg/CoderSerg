@@ -7,7 +7,7 @@ echo "Checking installer version..."
 sleep '0.3'
 echo "Installing in 5s Press Control+C to cancel..."
 sleep '5'
-cd ~/Downloads
+cd ~
 mkdir CoderSerg
 cd CoderSerg
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Describing%20You.lua" > dy.lua
@@ -15,7 +15,7 @@ curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Proj
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Yes_or_no.lua" > yon.lua
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/random_times.lua" > rt.lua
 clear
-echo "Lua files successfully installed into ~/Downloads/CoderSerg..."
+echo "Lua files successfully installed into ~/CoderSerg..."
 sleep '0.4'
 echo "Files are being verified please wait..."
 sleep '2'
