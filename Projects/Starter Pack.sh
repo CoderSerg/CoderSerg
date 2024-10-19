@@ -26,7 +26,7 @@ curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Proj
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/random_times.lua" > rt.lua
 clear
 echo "Completed! Git Clone is at ~/CoderSergPack/Git. One last step, paste this into your .zshrc file and thank you for using this pack:
-dy() {lua ~/CoderSergPack/dy.lua} 
-ry() {lua ~/CoderSergPack/ry.lua} 
-yon() {lua ~/CoderSergPack/yon.lua} 
-rt() {lua ~/CoderSergPack/rt.lua}"
+dy() {lua ~/CoderSergPack/Projects/dy.lua} 
+ry() {lua ~/CoderSergPack/Projects/ry.lua} 
+yon() {lua ~/CoderSergPack/Projects/yon.lua} 
+rt() {lua ~/CoderSergPack/Projects/rt.lua}"
