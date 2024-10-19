@@ -3,3 +3,4 @@
 - 😄 Pronouns: him, his, serg
 - ⚡ Fun fact: I started coding 1 year ago
 - 💻 I use a mac for all my coding
+- 💬 Subscribe to my friend on youtube: https://youtube.com/@kindomgamers345?si=4FcTU7DPIhMnifO2
