@@ -12,7 +12,7 @@ echo "It will guide you with steps to have a pack of stuff from me :)"
 sleep 1
 echo "If you already have run install_all.sh from me, please delete the files that it gave you or else the installation will fail."
 sleep 1
-read -q "answer?Install? (y/n)"
+read -q "answer?Install (y/n)"
 if [[ "$answer" == "y" ]]; then
 cd ~
 mkdir CoderSergPack
