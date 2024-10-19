@@ -23,4 +23,4 @@ echo "You are ready! Just one last step. Please paste this at the bottom of your
 dy() {lua ~/Downloads/CoderSerg/dy.lua} 
 ry() {lua ~/Downloads/CoderSerg/ry.lua} 
 yon() {lua ~/Downloads/CoderSerg/yon.lua} 
-rt() {lua ~/Downloads/CoderSerg/rt.lua"
+rt() {lua ~/Downloads/CoderSerg/rt.lua}"
