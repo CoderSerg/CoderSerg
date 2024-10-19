@@ -21,7 +21,7 @@ echo "Files are being verified please wait..."
 sleep '2'
 clear
 echo "You are ready! Just one last step. Please paste this at the bottom of your .zshrc file: 
-dy() {lua ~/Downloads/CoderSerg/dy.lua} 
-ry() {lua ~/Downloads/CoderSerg/ry.lua} 
-yon() {lua ~/Downloads/CoderSerg/yon.lua} 
-rt() {lua ~/Downloads/CoderSerg/rt.lua}"
+dy() {lua ~/CoderSerg/dy.lua} 
+ry() {lua ~/CoderSerg/ry.lua} 
+yon() {lua ~/CoderSerg/yon.lua} 
+rt() {lua ~/CoderSerg/rt.lua}"
