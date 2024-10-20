@@ -25,11 +25,10 @@ curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Proj
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Yes_or_no.lua" > yon.lua
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/random_times.lua" > rt.lua
 clear
-echo
-'dy() {lua ~/CoderSergPack/Projects/dy.lua} 
+echo'dy() {lua ~/CoderSergPack/Projects/dy.lua} 
 ry() {lua ~/CoderSergPack/Projects/ry.lua} 
 yon() {lua ~/CoderSergPack/Projects/yon.lua} 
-rt() {lua ~/CoderSergPack/Projects/rt.lua}' >> ~/.zshrc
+rt() {lua ~/CoderSergPack/Projects/rt.lua}' >> '~/.zshrc'
 source ~/.zshrc
 echo "Completed! Here is how to run the commands: 
 rt = Random Times
