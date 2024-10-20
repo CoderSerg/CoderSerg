@@ -1,0 +1,3 @@
+fortune | cowsay
+
+#the classic
