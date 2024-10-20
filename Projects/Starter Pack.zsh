@@ -30,6 +30,7 @@ echo
 ry() {lua ~/CoderSergPack/Projects/ry.lua} 
 yon() {lua ~/CoderSergPack/Projects/yon.lua} 
 rt() {lua ~/CoderSergPack/Projects/rt.lua}' >> ~/.zshrc
+source ~/.zshrc
 echo "Completed! Here is how to run the commands: 
 rt = Random Times
 yon = Yes Or No
