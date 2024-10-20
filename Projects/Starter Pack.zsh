@@ -25,12 +25,14 @@ curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Proj
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Yes_or_no.lua" > yon.lua
 curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/random_times.lua" > rt.lua
 clear
-echo 'dy() {lua ~/CoderSergPack/Projects/dy.lua} 
+source ~/.zshrc
+clear
+echo "Completed! Run this: echo 'dy() {lua ~/CoderSergPack/Projects/dy.lua} 
 ry() {lua ~/CoderSergPack/Projects/ry.lua} 
 yon() {lua ~/CoderSergPack/Projects/yon.lua} 
 rt() {lua ~/CoderSergPack/Projects/rt.lua}' >> ~/.zshrc
-source ~/.zshrc
-echo "Completed! Here is how to run the commands: 
+
+Then reload your terminal and use these:
 rt = Random Times
 yon = Yes Or No
 ry = Rating You
