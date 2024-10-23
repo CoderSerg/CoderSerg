@@ -20,10 +20,10 @@ cd CoderSergPack
 git clone https://github.com/CoderSerg/CoderSerg "Git Clone"
 mkdir Projects
 cd Projects
-curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Describing%20You.lua" > dy.lua
-curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Rating%20You.lua" > ry.lua
-curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Yes_or_no.lua" > yon.lua
-curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/random_times.lua" > rt.lua
+curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Code/Describing%20You.lua" > dy.lua
+curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Code/Rating%20You.lua" > ry.lua
+curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Code/Yes_or_no.lua" > yon.lua
+curl "https://raw.githubusercontent.com/CoderSerg/CoderSerg/refs/heads/main/Projects/Code/random_times.lua" > rt.lua
 clear
 source ~/.zshrc
 clear
