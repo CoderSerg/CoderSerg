@@ -14,5 +14,5 @@ And now let's get rid of this file
 cd ~/Downloads
 rm donut.png
 ```
-------
+--------------------
 And we are done now!
