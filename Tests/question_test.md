@@ -8,5 +8,7 @@ echo "You choose YAS"
 elif [[ "$answer" == "n" ]]; then
 clear
 echo "You choose NO"
+else
+echo "Invalid input"
 fi
 ```
