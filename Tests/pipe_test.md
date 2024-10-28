@@ -1,4 +1,4 @@
-#Pipe ``fortune`` to `cowsay`
+### Pipe `fortune` to `cowsay`
 
 ```zsh
 fortune | cowsay
