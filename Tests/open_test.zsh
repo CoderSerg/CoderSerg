@@ -1,2 +1,0 @@
-open -a Steam
-#Success
