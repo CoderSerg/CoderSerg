@@ -1,4 +1,4 @@
-Step 1
+### Step 1
 
 Let's try getting an image of a donut!
 ```zsh
