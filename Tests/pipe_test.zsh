@@ -1,3 +1,5 @@
-fortune | cowsay
+#Pipe fortune to `cowsay`
 
-#the classic
+```zsh
+fortune | cowsay
+```
