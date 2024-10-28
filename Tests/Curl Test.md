@@ -1,4 +1,4 @@
-##Step 1
+###Step 1
 
 Let's try getting an image of a donut!
 ```zsh
@@ -7,7 +7,7 @@ curl https://wuollet.com/cdn/shop/products/62d88877cc617fba61093959_5edc3fa4e5cf
 ```
 Try it out it's cool!
 
-##Step 2
+###Step 2
 
 And now let's get rid of this file
 ```zsh
