@@ -7,11 +7,12 @@ curl https://wuollet.com/cdn/shop/products/62d88877cc617fba61093959_5edc3fa4e5cf
 ```
 Try it out it's cool!
 
-Step 2
+### Step 2
 
 And now let's get rid of this file
 ```zsh
 cd ~/Downloads
 rm donut.png
 ```
+------
 And we are done now!
