@@ -1,3 +1,0 @@
-```lua
-print(os.time)
-```
