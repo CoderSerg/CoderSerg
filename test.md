@@ -1,1 +1,3 @@
-`bhsgdb`
+```zsh
+echo test
+```
