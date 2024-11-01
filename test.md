@@ -1,3 +1,3 @@
-```zsh
-echo test
+```lua
+print(os.time)
 ```
