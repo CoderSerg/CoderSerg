@@ -5,3 +5,4 @@
 - 😄 Pronouns: him, his, serg
 - ⚡ Fun fact: I started coding 1 year ago
 - 💻 I use a mac for all my coding
+- 👾 
