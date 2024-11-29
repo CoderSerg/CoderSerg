@@ -10,3 +10,4 @@ and this is my about me:
 - ⚡ Fun fact: I started coding 1 year ago
 - 💻 I use a mac for all my coding
 - 👾 I use the terminal a lot
+- 🚀 Fun fact: I don't really have a lot of ideas when I code.
