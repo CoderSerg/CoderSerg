@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Cat Memester",
+  "description": "A cat extension that is very fun! Some are are from r/CatMemes and some are from X.",
+  "version": "1.0",
+  "icons": {
+  "16": "image.png",
+  "32": "image.png",
+  "48": "image.png",
+  "128": "image.png"
+  },
+  "action": {
+  "default_popup": "index.html",
+  "default_icon": "image.png"
+  }
+}
